@@ -1,0 +1,12 @@
+{
+  "name": "Life-Bot",
+  "version": "1.0.0",
+  "description": "A Bot for Life Servers",
+  "main": "bot.js",
+  "author": "Leigham Masters",
+  "dependencies": {
+    "format-currency": "^1.0.0",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0"
+  }
+}
